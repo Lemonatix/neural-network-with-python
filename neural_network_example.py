@@ -26,7 +26,7 @@ W2 = np.random.randn(hidden_size, output_size)
 b2 = np.zeros((1, output_size))
 
 learning_rate = 0.01
-epochs = 50000
+epochs = 100000
 
 for epoch in range(epochs):
     # Forward pass
