@@ -1,8 +1,8 @@
 # Neural Network with Python 
-(note: building the network with all the required files is still in progress, some parts of the README.md won't be implemented right at the start. 
+(note: building the network with all the required files is still in progress, some parts mentioned in the README.md won't be implemented from the start.)
 
 A beginner-friendly project to implement neural networks from scratch using Python. This repository demonstrates the fundamental concepts of neural networks, including forward propagation, backpropagation, and optimization, without relying on advanced libraries like TensorFlow or PyTorch.
-Although TensorFlow and PyTorch will be used to show how those advanced libralies can be used properly. 
+Although TensorFlow and PyTorch might be used to show how those advanced libralies can be used properly. 
 
 ## Features
 - Implementation of a basic feedforward neural network
