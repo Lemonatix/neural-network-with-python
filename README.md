@@ -61,7 +61,7 @@ Results such as training loss and accuracy are visualized using Matplotlib:
 
 ## File Structure
 
-```plaintext
+```lua
 neural-network-with-python/
 ├── main.py             # Entry point of the application
 ├── neural_network.py   # Core neural network implementation
