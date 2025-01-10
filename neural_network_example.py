@@ -10,7 +10,7 @@ def sigmoid(z):
 
 # Binary Cross-Entropy
 def binary_cross_entropy_loss(A2, Y):
-    # Add a small epsilon to avoid log(0)
+    # Add a small epsilon to avoid division by zero
     epsilon = 1e-9
     return -np.mean(Y * np.log(A2 + epsilon) + (1 - Y) * np.log(1 - A2 + epsilon))
 
