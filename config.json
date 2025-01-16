@@ -1,0 +1,8 @@
+{
+    "batch_size": 32,
+    "num_epochs": 5,
+    "learning_rate": 0.001,
+    "input_size": 10,
+    "hidden_size": 16,
+    "output_size": 1
+}
