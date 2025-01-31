@@ -59,19 +59,6 @@ Results such as training loss and accuracy are visualized using Matplotlib:
 - Training Loss vs. Epochs
 - Decision Boundary for Classification Problems
 
-## File Structure
-
-```lua
-neural-network-with-python/
-├── main.py             # Entry point of the application
-├── neural_network.py   # Core neural network implementation
-├── utils.py            # Helper functions
-├── config.json         # Configuration file for hyperparameters
-├── datasets/           # Example datasets
-├── results/            # Output visualizations and logs
-└── README.md           # Project documentation
-```
-
 ## Contributing
 
 Contributions are welcome! If you have ideas for improvements, feel free to:
