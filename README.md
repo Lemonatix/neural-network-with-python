@@ -25,17 +25,11 @@ pip install numpy matplotlib
 
 ## Getting Started
 
-1. Clone this repository:
+Clone this repository:
 
    ```bash
    git clone https://github.com/yourusername/neural-network-with-python.git
    cd neural-network-with-python
-   ```
-
-2. Run the main script to see the neural network in action:
-
-   ```bash
-   python main.py
    ```
 
 ## Example Usage
